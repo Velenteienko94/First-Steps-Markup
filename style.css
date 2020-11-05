@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: inherit;
+    width: inherit;
+}
+
+.rotated {
+    background-color: rgb(153, 37, 37);
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    padding: 50px;
+}
+
+.logoOne {
+    height: 2px;
+    width: 30px;
+    background: rgba(0, 0, 255, 0.527);
+    padding: 0.5%;
+    margin: 1%;
+    transform: rotate(40deg);
+}
+.logoTwo {
+    height: 2px;
+    width: 30px;
+    background: rgba(8, 8, 185, 0.568);
+    padding: 0.5%;
+    margin: 1%;
+    transform: rotate(40deg);
+}
+.logoThree {
+    height: 2px;
+    width: 30px;
+    background: rgba(15, 15, 139, 0.603);
+    padding: 0.5%;
+    margin: 1%;
+    transform: rotate(40deg);
+}
+
+.paralelOne {
+    background-color: rgb(124, 35, 35);
+    height: 10px;
+    width: 50px;
+}
+
+.paralelTwo {
+    background-color: rgb(124, 38, 38);
+    height: 10px;
+    width: 50px;
+}
