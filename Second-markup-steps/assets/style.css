@@ -176,15 +176,15 @@ button:hover {
   color: brown;
 }
 
-.problems {
+.footerLogo {
   display: flex;
 }
 
-.bitch {
+.footerimg {
   flex: 1;
 }
 
-.tired {
+.footerText {
   display: inline;
   flex: 6;
 }
